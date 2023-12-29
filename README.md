@@ -12,7 +12,7 @@ This repository is intended for the purpose of adding all the questions and solu
    - Open your terminal and navigate to the directory where you want to clone the repository.
    - Run the following command:
      ```bash
-     git clone https://github.com/yourusername/AlgoAlly.git
+     git clone https://github.com/nividbugger/AlgoAlly-batch01.git
      cd AlgoAlly
      ```
 
